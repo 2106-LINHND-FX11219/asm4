@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://2106-linhnd-fx11219.github.io/asm4//sitemap.xmls
+Sitemap: https://2106-linhnd-fx11219.github.io/asm4//sitemap.xml
