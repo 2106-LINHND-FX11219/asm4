@@ -10944,3 +10944,40 @@ header.masthead h1, header.masthead .h1 {
   max-width: 100%;
   height: auto;
 }
+
+
+.button_share {
+ display: block;
+ float: left;
+ padding: 10px 15px;
+ border:none;
+ background-color: #ececec;
+ text-decoration: none;
+ font-size: 18px;
+ color: #FFF;
+}
+.button_share:hover {
+ color: #efefef;
+}
+
+.facebook {
+  background-color: #3b5998;
+ }
+ .gplus {
+  background-color: #dd4b39;
+ }
+ .twitter {
+  background-color: #55acee;
+ }
+ .stumbleupon {
+  background-color: #eb4924;
+ }
+ .pinterest {
+  background-color: #cc2127;
+ }
+ .linkedin {
+  background-color: #0077b5;
+ }
+ .buffer {
+  background-color: #323b43;
+ }
